@@ -1,0 +1,17 @@
+D:\Projects\cyberTask2\cyberTask2\bin\Debug\netcoreapp3.1\cyberTask2.exe
+D:\Projects\cyberTask2\cyberTask2\bin\Debug\netcoreapp3.1\cyberTask2.deps.json
+D:\Projects\cyberTask2\cyberTask2\bin\Debug\netcoreapp3.1\cyberTask2.runtimeconfig.json
+D:\Projects\cyberTask2\cyberTask2\bin\Debug\netcoreapp3.1\cyberTask2.runtimeconfig.dev.json
+D:\Projects\cyberTask2\cyberTask2\bin\Debug\netcoreapp3.1\cyberTask2.dll
+D:\Projects\cyberTask2\cyberTask2\bin\Debug\netcoreapp3.1\cyberTask2.pdb
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.csprojAssemblyReference.cache
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.Form1.resources
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.Form2.resources
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.Form3.resources
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.csproj.GenerateResource.cache
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.AssemblyInfoInputs.cache
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.AssemblyInfo.cs
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.csproj.CoreCompileInputs.cache
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.dll
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.pdb
+D:\Projects\cyberTask2\cyberTask2\obj\Debug\netcoreapp3.1\cyberTask2.genruntimeconfig.cache
